@@ -8,7 +8,7 @@ I am a full stack developer with a vast array of knowledge in many different fro
 - Tinkering with interactions on <a href="https://codepen.io/m0nica"> Twitter</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
-
+[![Precious's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambient567)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Ambient567/Ambient567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
