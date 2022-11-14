@@ -1,6 +1,6 @@
 ### Precious Nhlapho👋
 
-<img src="./images/I'm Precious.png" alt="banner image" width="250">
+<img src="./images/I'm Precious.png" alt="banner image" width="100%">
 
 
 <!--
