@@ -1,4 +1,7 @@
-### Hi there 👋
+### Precious Nhlapho👋
+
+<img src="./images/I'm Precious.png" alt="banner image">
+
 
 <!--
 **Ambient567/Ambient567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
