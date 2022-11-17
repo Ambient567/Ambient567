@@ -1,6 +1,6 @@
 # I'm Precious Nhlapho👋
 
-<img src="./images/I'm Precious.png" alt="banner image" width="100%">
+<img src="./images/Screenshot from 2022-11-17 13-39-11.png" alt="banner image" width="100%">
 
 &nbsp;
 
