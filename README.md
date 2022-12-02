@@ -24,8 +24,8 @@ I am a full stack developer with a vast array of knowledge in many different fro
 
 ## Find me around the web 🌎: <a href="https://github.com/Ambient567"><img align="left" width="150" height="150" src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif"></a>
 - Learning in public on <a href="pnhlapho59@gmail.com">Email</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Twitter</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Tinkering with interactions on <a href="https://twitter.com/Ambient567"> Twitter</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/pre/">LinkedIn</a> 💼
 <!--
 **Ambient567/Ambient567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
